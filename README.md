@@ -1,4 +1,4 @@
-# DevOps Trial Task: GCP Infrastructure Setup with Terraform
+GCP Infrastructure Setup with Terraform
 
 ## Overview
 
