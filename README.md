@@ -1,4 +1,3 @@
-
 # DevOps Trial Task: GCP Infrastructure Setup with Terraform
 
 ## Overview
@@ -118,8 +117,3 @@ terraform destroy
 
 ---
 
-## Contact
-
-If you have any questions, please reach out to the DevOps team or project coordinator.
-
----
